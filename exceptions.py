@@ -1,0 +1,2 @@
+class RelationException(Exception):
+    pass
